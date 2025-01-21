@@ -5,6 +5,7 @@ homepage: https://kakzaki.dev
 repository: https://github.com/kakzaki/blue_thermal_printer
 issue_tracker: https://github.com/kakzaki/blue_thermal_printer/issues
 documentation: https://github.com/kakzaki/blue_thermal_printer/blob/master/README.md
+publish_to: none
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
